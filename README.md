@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sofiia Bykovska!
 
-### 🚀 Flutter Developer | 📱 Mobile Enthusiast | 🎓 Mentor | 🧠 Lifelong Learner
+### 🚀 Flutter Developer | 📱 Mobile Enthusiast | 🎓 Mentor
 
 ---
 
@@ -23,7 +23,7 @@ Beyond Flutter, I'm actively learning **Kotlin** to deepen my understanding of n
 ---
 
 ## 💡 Interests
-- 🏗 Creating **complex architectures** in Flutter (SDUI, Clean Architecture, TDD).
+- 🏗 Creating **complex architectures** in Flutter (SDUI, Clean Architecture, TDD, BDD).
 - 🧪 Building **production-ready UI** with **visual regression testing**.
 - 🏹 Exploring native Android with **Kotlin**.
 - 🎓 Mentoring and sharing knowledge with other developers.
