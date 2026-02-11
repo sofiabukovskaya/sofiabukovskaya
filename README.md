@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Flutter developer with 4+ years of experience**, focused on building scalable, maintainable, and beautiful mobile apps.  
+I'm a passionate **Flutter developer with 5+ years of experience**, focused on building scalable, maintainable, and beautiful mobile apps.  
 I have experience mentoring junior developers, sharing knowledge, and contributing to clean code practices in teams.  
 
 Beyond Flutter, I'm actively learning **Kotlin** to deepen my understanding of native Android development and architecture.
@@ -32,7 +32,7 @@ Beyond Flutter, I'm actively learning **Kotlin** to deepen my understanding of n
 ---
 
 ## 🏆 Experience Highlights
-✅ 4+ years of Flutter development.  
+✅ 5+ years of Flutter development.  
 ✅ Mentored developers to grow into strong Flutter engineers.  
 ✅ Built scalable, feature-rich mobile applications.  
 ✅ Love tackling **complex problems** and learning **new paradigms**.
